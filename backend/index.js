@@ -1,4 +1,4 @@
-const apiKey = "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";
+const apiKey = "your_CHAT_API";
 const { Configuration, OpenAIApi } = require("openai");
 const express = require('express')
 const serverless = require('serverless-http');
