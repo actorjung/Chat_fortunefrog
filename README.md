@@ -3,7 +3,10 @@ chatgpt api활용 운세를 봐주는 웹 사이트 제작 및 배포, 광고배
 
 웹 사이트 
 
-[https://chatfrog.pages.dev/](https://chatfrog.pages.dev/) 
+[https://chatfrog.pages.dev/](https://chatfrog.pages.dev/)
+
+참고 자료
+https://github.com/youtube-jocoding
 
 <img width="709" alt="스크린샷 2023-03-25 오후 11 15 26" src="https://user-images.githubusercontent.com/112843229/227722681-c18573d9-0028-4675-b2c5-a1603e4579e0.png">
 
