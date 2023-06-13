@@ -1,8 +1,3 @@
-<img width="709" alt="스크린샷 2023-03-25 오후 11 15 26" src="https://user-images.githubusercontent.com/112843229/227722681-c18573d9-0028-4675-b2c5-a1603e4579e0.png">
-
-<img width="725" alt="스크린샷 2023-03-25 오후 11 16 16" src="https://user-images.githubusercontent.com/112843229/227722698-7562ec21-c4af-4be0-bd65-3e9025af0f94.png">
-
-
 ## Subject
 
 ---
@@ -28,6 +23,8 @@
 
 ---
 
+- Clone Coding
+
 ---
 
 ## **Capabilities**
@@ -41,3 +38,8 @@
 - Kakao adfit 활용 광고 배너 제작
 
 ---
+
+<img width="709" alt="스크린샷 2023-03-25 오후 11 15 26" src="https://user-images.githubusercontent.com/112843229/227722681-c18573d9-0028-4675-b2c5-a1603e4579e0.png">
+
+<img width="725" alt="스크린샷 2023-03-25 오후 11 16 16" src="https://user-images.githubusercontent.com/112843229/227722698-7562ec21-c4af-4be0-bd65-3e9025af0f94.png">
+
